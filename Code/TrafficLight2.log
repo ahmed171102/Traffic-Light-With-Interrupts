@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"M:\mikroC PRO for PIC\Examples\TrafficLight2.mcppi" -SP"M:\mikroC PRO for PIC\Defs\" -SP"M:\mikroC PRO for PIC\Uses\P16\" -SP"M:\mikroC PRO for PIC\Examples\" -IP"M:\mikroC PRO for PIC\Uses\P16\" -IP"M:\mikroC PRO for PIC\Examples\" "TrafficLight2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	TrafficLight2.c
+diagnostics: 82	123	Compiled Successfully	TrafficLight2.c
+diagnostics: 0	127	All files Compiled in 156 ms	 
+hint: 0	1144	Used RAM (bytes): 82 (23%)  Free RAM (bytes): 270 (77%)	Used RAM (bytes): 82 (23%)  Free RAM (bytes): 270 (77%)
+hint: 0	1144	Used ROM (program words): 550 (7%)  Free ROM (program words): 7642 (93%)	Used ROM (program words): 550 (7%)  Free ROM (program words): 7642 (93%)
+diagnostics: 0	125	Project Linked Successfully	TrafficLight2.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'TrafficLight2.mcppi' completed: 328 ms	 
+diagnostics: 0	103	Finished successfully: 07 Apr 2026, 11:30:44	TrafficLight2.mcppi
